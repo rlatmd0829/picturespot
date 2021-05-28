@@ -1,9 +1,0 @@
-spring:
-  freemarker:
-    checkTemplateLocation: false
-  profiles:
-    include: oauth
-  jpa:
-    properties:
-      hibernate:
-        show_sql: true
